@@ -199,6 +199,7 @@ ls -lh
 
 > What changed?
 
+> The file size figures were rounded and updated with respective size label (k,b).
 If instead copying we just want to change the name of a file, we can do:
 
 
