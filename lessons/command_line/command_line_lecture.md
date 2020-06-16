@@ -123,7 +123,7 @@ why.
 The greater than says, "put that output into the following file instead."
 
 What if we want to read that file back out to the terminal?
-
+> ls
 ```bash
 cat test_file.txt
 ```
